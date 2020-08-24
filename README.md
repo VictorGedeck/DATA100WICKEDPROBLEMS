@@ -1,1 +1,1 @@
-#This is my index
+Wicked Problems COLL100 Index
