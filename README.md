@@ -3,3 +3,5 @@
 [Getting Started with RStudio](https://github.com/VictorGedeck/data100/blob/master/GettingStarted.md) 
 
 [Path Between 3 Homes](https://github.com/VictorGedeck/data100/blob/master/PathBetween3Homes.md)
+
+[Getting Started Challenge Question](https://github.com/VictorGedeck/data100/blob/master/ChallengeQuestion.md) 
