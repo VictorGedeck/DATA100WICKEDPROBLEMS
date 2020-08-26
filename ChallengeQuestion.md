@@ -1,6 +1,6 @@
 # Challenge Question
 
-For this exercise, we were challenged to create a plot with specific parameters. I started by using the commands x<-1:1000 and y<-1:1000 to set the min/max limits of the plot. Next, we were instructed to randomly place 50 dwelling units which I completed using the command: "symbols(east,north,squares=rep(10,50),inches=FALSE)". The next step was to randomly place 40 small trees on the plot for which I used the command: "symbols(sample(x,40, replace = TRUE), sample(y,40, replace = TRUE), circles = rep(2.5,40), inches = FALSE, fg = "green", add = TRUE)". The next instruction was to place 12 large trees. For this, I used the command: "symbols(sample(x, 12, replace = TRUE), sample(y, 12, replace = TRUE), circles = rep(18,12), inches = FALSE, fg = "green4", bg = "beige", add = TRUE)". The next instruction was to randomly select 7 homes which was done with the command: "locs<-sample(1:50, 7, replace = FALSE)" and to identify each home, I used the command: "text(x = dwellings[locs, ]$east, y = dwellings[locs, ]$north + 10,labels = dwellings[locs, ]$id)". To create the dashed spline that would connect them all, I used the command: "xspline(x = dwellings[locs,2],y = dwellings[locs,3],shape=-1,lty=2)". Finally, I used title(main="Challenge Question") to title the plot.
+For this exercise, we were challenged to create a plot with specific parameters. 
 
 # Challenge Question Plot
 [Plot](https://github.com/VictorGedeck/data100/blob/master/Challenge%20Question.png) 
