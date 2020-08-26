@@ -1,7 +1,7 @@
 # Wicked Problems COLL100 Index
 
-[Getting Started with RStudio](https://github.com/VictorGedeck/data100/blob/master/GettingStarted.md) 
+[Getting Started with RStudio](https://victorgedeck.github.io/data100/GettingStarted) 
 
-[Path Between 3 Homes](https://github.com/VictorGedeck/data100/blob/master/PathBetween3Homes.md)
+[Path Between 3 Homes](https://victorgedeck.github.io/data100/PathBetween3Homes)
 
-[Getting Started Challenge Question](https://github.com/VictorGedeck/data100/blob/master/ChallengeQuestion.md) 
+[Getting Started Challenge Question](https://victorgedeck.github.io/data100/ChallengeQuestion) 
