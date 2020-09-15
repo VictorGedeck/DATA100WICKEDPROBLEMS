@@ -6,6 +6,12 @@
 
 [Getting Started Challenge Question](https://victorgedeck.github.io/data100/ChallengeQuestion) 
 
+# Project 1
+
 [Data Management Basics Part 1](https://victorgedeck.github.io/data100/DMBasicsPt1) 
+
+[Data Management Basics Part 2](https://victorgedeck.github.io/data100/DMFundamentals)
+
+# Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
