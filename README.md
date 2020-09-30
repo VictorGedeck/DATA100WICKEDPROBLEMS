@@ -15,6 +15,9 @@
 # Project 2 
 [Plotting State Growth](https://victorgedeck.github.io/data100/Proj2Pt1)
 
+[Stock Growth](https://victorgedeck.github.io/data100/StockGrowth)
+
 # Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
+
