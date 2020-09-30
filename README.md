@@ -12,6 +12,9 @@
 
 [Data Management Basics Part 2](https://victorgedeck.github.io/data100/DMFundamentals)
 
+# Project 2 
+[Plotting State Growth](https://victorgedeck.github.io/data100/Proj2Pt1)
+
 # Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
