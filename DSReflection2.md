@@ -1,6 +1,5 @@
 # Data Science and Drug Discovery
 
-# The Methodology
 Machine Learning is the usage of artificial intelligence that learns and improves automatically through the experience without exterior help. Generally focuses on the development of computer programs that access data and use said data to learn. An example of machine learning is where programmers create a program with the goal that through machine learning, it becomes unbeatable at chess. The program kept playing chess and through machine learning learned how to beat any opponent. 
 
 In terms of drug discovery, machine learning is used for drug research and clinical trials as it can screen large databases, perform docking studies which is where AI simulates molecular recognition processes to find the best configuration for the molecules. These processes help AI either identify existing drugs that could be used or help design new drugs. 
