@@ -17,6 +17,8 @@
 
 [Stock Growth](https://victorgedeck.github.io/data100/StockGrowth)
 
+[Investment Growth](https://victorgedeck.github.io/data100/proj2pt3)
+
 # Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
