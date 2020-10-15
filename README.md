@@ -19,6 +19,9 @@
 
 [Investment Growth](https://victorgedeck.github.io/data100/proj2pt3)
 
+# Project 3
+[Plotting Administrative Subdivisions](https://victorgedeck.github.io/data100/proj3)
+
 # Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
