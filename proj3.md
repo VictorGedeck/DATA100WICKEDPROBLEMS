@@ -6,4 +6,4 @@ For this project, we used spatial data to plot nations and then administrative s
 
 # Stretch Goals
 <img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/hovedstaden.png">
-<img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/details.png">
+<img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/detailsab.png">
