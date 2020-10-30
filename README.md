@@ -31,3 +31,5 @@
 [Data Science Reflection 2](https://victorgedeck.github.io/data100/DSReflection2)
 
 [Data Science Reflection 3](https://victorgedeck.github.io/data100/DSReflection3)
+
+[Data Science Reflection 4](https://victorgedeck.github.io/data100/DSReflection4)
