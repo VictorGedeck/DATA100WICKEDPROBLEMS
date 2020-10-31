@@ -23,6 +23,9 @@
 [Plotting Administrative Subdivisions](https://victorgedeck.github.io/data100/proj3)
 
 # Project 4
+[Extracting Populations & Aggregating](https://victorgedeck.github.io/data100/proj4pt)
+
+[Creating a Geometric Bar Plot](https://victorgedeck.github.io/data100/proj4pt2)
 
 # Data Science Reflections
 
