@@ -7,4 +7,6 @@ For this project, we extracted populations from a raster and then had to aggrega
 # Stretch Goals
 <img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/dnk_pop20adm2.png">
 <img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/dnk_pop20adm1and2.png">
+
+Click on the box for the following plot to load
 <img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/denmark.mp4">
