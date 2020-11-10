@@ -27,6 +27,9 @@
 
 [Creating a Geometric Bar Plot](https://victorgedeck.github.io/data100/proj4pt2)
 
+# Project 5
+[Extracting Land Use and Land Cover Data for Description](https://victorgedeck.github.io/data100/Proj5)
+
 # Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
