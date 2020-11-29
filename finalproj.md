@@ -9,3 +9,6 @@
 
 
 # Accessibility 3
+
+<img src="https://raw.githubusercontent.com/VictorGedeck/data100/master/frtopo.png">
+1) Overall the landscape of the administrative subdivision is flat with very few hills. The Urban areas have basically overtaken the flat areas and the hilly areas are generally left untouched. 2) Similarly to the development of urban areas, transportation facilities are heavily based in the flat areas of Frederiksberg, the hilly areas tend to have secondary/tertiary roadways while the urban area has primary roadways. 3) Health Care facilities are almost solely based in the flat areas of Frederiksberg. 4) Producing the three-dimensional map provided a better explanation for why everything seemed condensed into the urban area. It showed me that the urban area in Frederiksberg was built around the hills, likely it's easier to built up a city on flatlands.
