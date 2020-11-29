@@ -30,6 +30,9 @@
 # Project 5
 [Extracting Land Use and Land Cover Data for Description](https://victorgedeck.github.io/data100/Proj5)
 
+# Final project
+[Final Project](https://victorgedeck.github.io/data100/finalproj)
+
 # Data Science Reflections
 
 [Data Science Reflection 1](https://victorgedeck.github.io/data100/DSReflection1)
